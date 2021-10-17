@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZayanMakar
 - 👀 I’m interested in Software Development & Data Analysis
 - 🌱 I’m currently learning Python & Data Analysis 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me "zzr762013@gmail.com"
 
 <!---
